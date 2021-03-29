@@ -3,7 +3,7 @@ package za.ac.cput;
 /*
  * Haroun Mohamed-Fakier [219095523]
  * March 2021
- * Enemy.java
+ * EnemyTest.java
  */
 
 import org.junit.jupiter.api.*;
