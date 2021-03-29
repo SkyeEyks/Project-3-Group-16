@@ -1,5 +1,11 @@
 package za.ac.cput;
 
+/*
+ * Haroun Mohamed-Fakier [219095523]
+ * March 2021
+ * Enemy.java
+ */
+
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
